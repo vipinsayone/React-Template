@@ -1,0 +1,13 @@
+
+Credentials : demo & abc
+
+Phase 1
+	Basic template creation
+	Create Components
+	Include Components
+	
+Phase 2
+	Basic Login Check 
+	Basic protect for path
+
+
