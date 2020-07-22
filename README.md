@@ -1,17 +1,17 @@
 ## React Basic Template
 
-### Different Phases
+### Phases
 
 #### Phase 1 :
-Basic template creation
-Create Components
-Include Components
+* Basic template creation
+* Create Components
+* Include Components
 
 #### Phase 2 :
-Basic Login
-Basic Lougot
-Validation for Routing URL
+* Basic Login
+* Basic Lougot
+* Validation for Routing URL
 
 ## Login Credentials
 
-Email: demo Password: abc
+Email: demo & Password: abc
