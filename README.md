@@ -2,6 +2,10 @@
 
 ### Phases
 
+## Login Credentials
+
+Email: demo & Password: abc
+
 #### Phase 1 :
 * Basic template creation
 * Create Components
@@ -12,6 +16,6 @@
 * Basic Lougot
 * Validation for Routing URL
 
-## Login Credentials
-
-Email: demo & Password: abc
+#### Phase 3 :
+* Data listing using Fetch API
+* Data listed under Customers Navlink
