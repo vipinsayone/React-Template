@@ -1,0 +1,54 @@
+.sidebar {
+        width: 250px;
+        padding: 0;
+        box-shadow: none;
+        color: #fff;
+        background: #3c4b64;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 1030;
+}
+.sidebar h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0;
+        height: 62px;
+        line-height: 62px;
+        background: rgba(0,0,21,.2);
+}
+.sidebar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+.sidebar .navitem a {
+        color: #fff;
+        display: block;
+        padding: 20px;
+        border-bottom: 1px solid rgba(255,255,255,.05);
+        transition: all .3s;
+        -webkit-transition: all .3s;
+        font-size: 16px;
+        position: relative;
+}
+.sidebar .navitem a:hover, .sidebar .navitem a:focus {
+        text-decoration: none;
+        background: rgba(255,255,255,.05);
+        border-bottom-color: rgba(255,255,255,.05);
+}
+.sidebar .navitem .active-nav {
+        background: rgba(255,255,255,.05);
+        border-bottom-color: rgba(255,255,255,.05);
+}
+.sidebar .navitem .active-nav:after {
+        width: 0;
+        height: 0;
+        border-bottom: 14px solid transparent;
+        border-right: 14px solid #ebedef;
+        border-top: 14px solid transparent;
+        content: " ";
+        position: absolute;
+        top: 18px;
+        right: 0;
+}

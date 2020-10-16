@@ -19,3 +19,7 @@ Email: demo & Password: abc
 #### Phase 3 :
 * Data listing using Fetch API
 * Data listed under Customers Navlink
+
+#### Phase 4 :
+* Charts added
+* React JS 'react-chartjs-2' added & used on Charts page
